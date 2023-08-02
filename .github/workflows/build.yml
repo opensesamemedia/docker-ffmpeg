@@ -1,4 +1,4 @@
-name: Build recording service and push to ECR
+name: Build docker ffmpeg image and push to ECR
 
 on:
   workflow_dispatch:
